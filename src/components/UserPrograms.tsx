@@ -41,14 +41,14 @@ const UserPrograms = () => {
             {/* STATS */}
             <div className="flex items-center justify-center gap-16 mt-10 font-mono">
               <div className="flex flex-col items-center">
-                <p className="text-3xl text-primary">500+</p>
+                <p className="text-3xl text-primary">100+</p>
                 <p className="text-sm text-muted-foreground uppercase tracking-wide mt-1">
                   PROGRAMS
                 </p>
               </div>
               <div className="w-px h-12 bg-border"></div>
               <div className="flex flex-col items-center">
-                <p className="text-3xl text-primary">3min</p>
+                <p className="text-3xl text-primary">1min</p>
                 <p className="text-sm text-muted-foreground uppercase tracking-wide mt-1">
                   CREATION TIME
                 </p>
@@ -196,7 +196,7 @@ const UserPrograms = () => {
             </Button>
           </Link>
           <p className="text-muted-foreground mt-4">
-            Join 500+ users with AI-customized fitness programs
+            Join 100+ users with AI-customized fitness programs
           </p>
         </div>
       </div>
